@@ -11,7 +11,7 @@ Whenever something "only runs on Windows", I take it personally. So I build the 
 | It used to be… | Now on Linux | How |
 |---|---|---|
 | **Power BI Desktop** (Windows only) | [**powerbi-linux**](https://github.com/ludoviciphilip/powerbi-linux) | One command: an unattended Windows 11 VM that shows Power BI in its own window |
-| **Power BI**, but native | [**PrismBI**](https://github.com/ludoviciphilip/PrismBI) | A native BI desktop app in Rust + DuckDB + Tauri that opens `.pbix` / `.pbip` |
+| **Power BI**, but native | [**VetroBI**](https://github.com/ludoviciphilip/VetroBI) | A native BI desktop app in Rust + DuckDB + Tauri that opens `.pbix` / `.pbip` |
 | **Hamachi / Radmin VPN** | [**belfry**](https://github.com/ludoviciphilip/belfry) | Virtual LAN rooms for playing with friends. No account, no member limit |
 | **Microsoft Journal** | [**caderno**](https://github.com/ludoviciphilip/caderno) | A handwriting notebook for pen tablets (GTK4 + libadwaita) |
 | **Upscaling and frame-gen tools** | [**uplift**](https://github.com/ludoviciphilip/uplift) | Pick a Steam game and get FSR, OptiScaler, vkBasalt or lsfg-vk set up for you. GUI + TUI + CLI |
